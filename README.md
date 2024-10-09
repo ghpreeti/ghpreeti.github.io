@@ -33,15 +33,44 @@ A passionate third-year B.Tech Computer Science student at Lovely Professional U
 
 ---
 
-### 🛠️ **Technical Skills**
+## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C/C++](https://img.shields.io/badge/-C/C++-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+### Backend development:
+&emsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+### Tools & Misc:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
-- **Programming Languages:** C/C++, Java
-- **Frontend Frameworks/Libraries:** ReactJS, Tailwind CSS
-- **Backend Technologies:** Node.js, Express, MongoDB
-- **Tools:** Git, GitHub, VS Code
-- **Platforms:** Windows
-- **Power Skills:** Adaptive Learner, Leadership Capability, Effective Communication
-- **Languages:** English, Hindi, Japanese (Beginner)
+&emsp;
+
+## 📈 My GitHub Stats and Activity
+
+### 💻 Profile Stats
+
+<img alt="Preeti Singh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ghpreeti&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Preeti Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpreeti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+### 🔥 Streak Stats
+
+![Preeti Singh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghpreeti&theme=tokyonight)
+------
+Credit: [Preeti Singh](https://github.com/ghpreeti)
 
 ---
 
@@ -58,12 +87,4 @@ A passionate third-year B.Tech Computer Science student at Lovely Professional U
   *Learned advanced prompt patterns and techniques for utilizing large language models effectively.*
 
 ---
-
-### 📈 **GitHub Performance**
-
-- 🔥 **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghpreeti&theme=dark)
-- 🏆 **GitHub Score:** ![GitHub Score](https://img.shields.io/github/followers/ghpreeti?label=GitHub%20Followers&style=social)
-
----
-
 🌟 **“Embrace innovation and continuous learning, and you’ll be ready for any challenge in the tech world!”**
